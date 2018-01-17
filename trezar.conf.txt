@@ -1,0 +1,9 @@
+globalminer ccminer
+maxgputemp 85
+stratumproxy enabled
+proxywallet TkQujXhSeMFA6v8AG69Pz1qLRbtknje86A
+proxypool1 pool.unimining.net:4237
+flags -a neoscrypt -p d=2,c=TZC
+globalcore 2130
+globalmem 4404
+globalfan 80
